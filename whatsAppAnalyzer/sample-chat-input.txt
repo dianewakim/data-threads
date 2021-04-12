@@ -1,0 +1,25 @@
+[01/01/2020 00:05:30] B: *bonne année !!*
+[01/01/2020 00:06:03] F: exemple de message 1
+[01/01/2020 00:06:29] B: quoi ?!
+[01/01/2020 00:06:33] A: Ca mérite un message audio
+[01/01/2020 00:06:35] H: *hein
+[01/01/2020 00:06:51] F: Effectivement
+[01/01/2020 00:07:02] E: On expliquera
+[01/01/2020 00:07:48] C: Bonne année tout le monde !! 🥳
+[01/01/2020 00:08:44] G: Bonne année, bonne santé et plein de bisous 😘😘😘😘
+‎[01/01/2020 00:09:39] B: ‎vidéo absente
+[28/05/2020 21:05:42] J: Il nous faut un zoom pour discuter
+[28/05/2020 21:41:16] I: Quand vous voulez pour le zoom !
+[28/05/2020 21:42:01] J: Moi aussi
+[28/05/2020 21:45:41] G: Zoom demain soir, à l’heure de l’apéro ?
+[28/05/2020 21:49:56] E: une salle de sport
+[28/05/2020 21:50:46] A: Et une bonne connexion web
+[28/05/2020 21:50:52] E: Exemple de message
+sur plusieurs lignes
+[28/05/2020 21:51:11] B: Samedi quand vous voulez
+[28/05/2020 21:53:22] C: coucou tout le monde !
+[28/05/2020 21:53:34] C: Samedi ça nous va pour le zoom !
+[07/06/2020 12:32:58] I: ‎image absente
+[07/06/2020 12:52:32] I: Franchement ?
+‎[07/06/2020 12:53:36] A: ‎image absente
+‎[07/06/2020 15:07:42] J: ‎image absente
